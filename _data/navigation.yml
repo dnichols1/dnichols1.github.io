@@ -1,0 +1,17 @@
+main:
+  - title: "About Me"
+    url: /about/
+  - title: "CV"
+    url: /cv.pdf
+  - title: "Research"
+    url: /research/
+  - title: "Publications"
+    url: /publications/
+  - title: "All Posts"
+    url: /posts/
+    #   - title: "Tags"
+    # url: /tags/
+    #   - title: "Pages"
+    # url: /page-archive/
+    # - title: "Collections"
+    # url: /collection-archive/
