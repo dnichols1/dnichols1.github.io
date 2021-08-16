@@ -2,11 +2,15 @@ main:
   - title: "About Me"
     url: /about/
   - title: "CV"
-    url: /cv.pdf
+    url: /cv/
   - title: "Research"
     url: /research/
+  - title: "Group"
+    url: /group/
   - title: "Publications"
     url: /publications/
+  - title: "Visualizations"
+    url: /visualizations/
   - title: "All Posts"
     url: /posts/
     #   - title: "Tags"
