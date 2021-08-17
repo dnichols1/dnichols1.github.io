@@ -10,19 +10,19 @@ A PDF file of my full CV can be obtained [here](/cv.pdf). Below is a short summa
 ## Academic Positions ##
 
 - **Assistant Professor of Physics** *University of Virginia* <br />
-08/2019&mdash;present
+08/2019&ndash;present
 
 - **Senior Postdoctoral Researcher** *University of Amsterdam* <br />
- 07/2018&mdash;08/2019
+ 07/2018&ndash;08/2019
 
 - **Postdoctoral Researcher** *Radboud University* <br />
-09/2016&mdash;06/2018
+09/2016&ndash;06/2018
 
 - **Postdoctoral Associate** *Cornell University* <br />
-09/2012&mdash;08/2016
+09/2012&ndash;08/2016
 
 - **Postdoctoral Researcher** *Caltech* <br />
-06/2012&mdash;08/2012
+06/2012&ndash;08/2012
 
 
 ## Education ##
