@@ -10,19 +10,19 @@ The first paper was an Editors' Suggestion in Phys. Rev. D, and it had a
 [synopsis](https://physics.aps.org/synopsis-for/10.1103/PhysRevD.99.084044)
 published about it in [Physics](https://physics.aps.org/).
 
-## Papers Highlighted
+## Papers Highlighted ##
 
-* E. E. Flanagan, A. M. Grant, A. I. Harte, **D. A. Nichols**.
+* E. E. Flanagan, A. M. Grant, A. I. Harte, and **D. A. Nichols**.
 "Persistent gravitational-wave observables: Nonlinear plane wave spacetimes."
 [Phys. Rev. D 101, 104033 (2020)](https://dx.doi.org/10.1103/PhysRevD.101.104033),
 [arXiv:1912.13449](https://arxiv.org/abs/1912.13449). 
 
-* E. E. Flanagan, A. M. Grant, A. I. Harte, **D. A. Nichols**. 
+* E. E. Flanagan, A. M. Grant, A. I. Harte, and **D. A. Nichols**. 
 "Persistent gravitational-wave observables: General framework."
 [Phys. Rev. D 99, 084004 (2019)](https://dx.doi.org/10.1103/PhysRevD.99.084044),
 [arXiv:1901.00021](https://arxiv.org/abs/1901.00021). 
 
-## Summary of the Paper
+## Summary of the Papers ##
 
 ![](/images/SpinObservable.png){: .align-left}
 The gravitational-wave memory effect is often characterized by the lasting displacement it would cause between freely falling observers after a burst of gravitational waves pass by their locations.
