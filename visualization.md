@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Visualizations
+title: Visualizations of Spacetime Curvature
 author_profile: true
 permalink: /visualizations/
 ---
