@@ -13,7 +13,7 @@ Below are current and former group members and advisees. I do not anticipate hav
 
 - **Alexander Grant** [(UVA Physics webpage)](http://www.phys.virginia.edu/People/personal.asp?UID=jgt5fu) <br />
 UVA postdoc in Physics and group member since 09/2020. <br />
-*Research Areas*: Gravitational-wave memory, asymptotically flat spacetimes, enironmental effects in extreme- and intermediate-mass-ratio inspirals
+*Research Areas*: Gravitational-wave memory, asymptotically flat spacetimes, environmental effects in extreme- and intermediate-mass-ratio inspirals
 
 ### Graduate Students ###
 
@@ -23,7 +23,7 @@ UVA PhD student in Physics and group member since 08/2019. <br />
 
 - **Benjamin Wade** [(UVA Physics webpage)](http://www.phys.virginia.edu/People/personal.asp?UID=baw8td) <br /> 
 UVA PhD student in Physics and group member since 02/2021. <br />
-*Research Areas*: Enironmental effects in extreme- and intermediate-mass-ratio inspirals
+*Research Areas*: Environmental effects in extreme- and intermediate-mass-ratio inspirals
 
 
 ## Former Group Members and Advisees ##
