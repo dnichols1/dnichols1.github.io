@@ -11,11 +11,13 @@ In the second paper, we applied the results of the first to compute gravitationa
 
 ## Papers Highlighted ##
 
-* S. Tahura, **D. A. Nichols**, and K. Yagi, "Gravitational-wave memory effects in Brans-Dicke theory: Waveforms and effects in the post-Newtonian approximation." [arXiv:2107.02208](https://arxiv.org/abs/2107.02208).
+* S. Tahura, **D. A. Nichols**, and K. Yagi, "Gravitational-wave memory effects in Brans-Dicke theory: Waveforms and effects in the post-Newtonian approximation." 
+[Phys. Rev. D 104, 104010, (2021)](https://doi.org/10.1103/PhysRevD.104.104010),
+[arXiv:2107.02208](https://arxiv.org/abs/2107.02208).
 
 * S. Tahura, **D. A. Nichols**, A. Saffer, L. C. Stein, and K. Yagi, 
 "Brans-Dicke theory in Bondi-Sachs form: Asymptotically flat solutions, asymptotic symmetries and gravitationalwave memory effects."
-[Phys. Rev. D 104, 104026, (2021)](https://doi.org/10.1103/PhysRevD.104.104026),
+[Phys. Rev. D 103, 104026, (2021)](https://doi.org/10.1103/PhysRevD.103.104026),
 [arXiv:2007.13799](https://arxiv.org/abs/2007.13799).
 
 ## Summary of the Papers ##
