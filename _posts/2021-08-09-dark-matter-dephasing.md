@@ -11,6 +11,7 @@ This post describes two papers on the dynamics of dark matter in intermediate ma
 
 * A. Coogan, G. Bertone, D. Gaggero, B. J. Kavanagh, and **D. A. Nichols**. 
 "Measuring the dark matter environments of black hole binaries with gravitational waves." (2021). 
+[Phys. Rev. D 105, 043009 (2022)](https://doi.org/10.1103/PhysRevD.105.043009),
 [arXiv:2108.04154](https://arxiv.org/abs/2108.04154).
 
 * B. J. Kavanagh, **D. A. Nichols**, G. Bertone, and D. Gaggero.
