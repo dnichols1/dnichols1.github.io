@@ -25,6 +25,16 @@ UVA PhD student in Physics and group member since 08/2019. <br />
 UVA PhD student in Physics and group member since 02/2021. <br />
 *Research Areas*: Environmental effects in extreme- and intermediate-mass-ratio inspirals
 
+- **Siddhant Siddhant** [(UVA Physics webpage)](http://www.phys.virginia.edu/People/personal.asp?UID=sbp4ab) <br /> 
+UVA PhD student in Physics and group member since 01/2022. <br />
+*Research Areas*: Asymptotically flat spacetimes, gravitational-wave memory and persistent observables
+
+### Undergraduate Students ###
+
+- **Bejoy Sen** [(UVA Physics webpage)](http://www.phys.virginia.edu/People/personal.asp?UID=bs7fhr) <br /> 
+UVA BS student in Physics and Computer Science, and group member since 01/2022. <br />
+*Research Areas*: Visualization of spacetime curvature
+
 
 ## Former Group Members and Advisees ##
 
@@ -36,12 +46,12 @@ Currently a postdoc at the University of Guelph.
 - **Andrew Tuma** <br />
 BS in Physics from UVA in 2020. <br /> 
 Former senior thesis advisee (on spacetime visualization methods).
-Currently pursuing a MS degree in Applied Mathematics at San Diego State University (SDSU).
+Completed a MS degree in Applied Mathematics at San Diego State University (SDSU); currently working in industry.
 
 - **Yara Yousef** <br />
 BS in Astronomy/Physics from UVA in 2020. <br />
 Former senior thesis advisee (on memory-effect detection prospects).
-Currently performing astronomy research at the University of Birmingham (UK).
+Currently in MS program in machine learning and articial intellegence at the University of Barcelona.
 
 - **Oliver Boersma** [(UvA webpage)](https://api.uva.nl/profile/b/o/o.m.boersma/o.m.boersma.html) <br />
 MS in Astrophysics from Radboud University in 2019. <br />
