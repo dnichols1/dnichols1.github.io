@@ -21,7 +21,7 @@ This post describes two papers and a comment about quasinormal modes of Kerr bla
 * H. Yang, **D. A. Nichols**, F. Zhang, A. Zimmerman, Z. Zhang, and Y. Chen. 
 "Quasinormal-mode spectrum of Kerr black holes and its geometric interpretation." 
 [Phys. Rev. D 86, 104006 (2012)](http://dx.doi.org/10.1103/PhysRevD.86.104006),
-[arXiv:1207.4253](http://arxiv.org/abs/1212.3271).
+[arXiv:1207.4253](http://arxiv.org/abs/1207.4253).
 
 ## Summary of the Papers
 
