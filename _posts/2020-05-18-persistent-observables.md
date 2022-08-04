@@ -12,6 +12,11 @@ published about it in [Physics](https://physics.aps.org/).
 
 ## Papers Highlighted ##
 
+* A. M. Grant and **D. A. Nichols**.
+"Persistent gravitational-wave observables: Curve deviation in asymptotically flat spacetimes."
+[Phys. Rev. D 105, 024056 (2022)](https://doi.org/10.1103/PhysRevD.105.024056),
+[arXiv:2109.03832](https://arxiv.org/abs/2109.03832). 
+
 * E. E. Flanagan, A. M. Grant, A. I. Harte, and **D. A. Nichols**.
 "Persistent gravitational-wave observables: Nonlinear plane wave spacetimes."
 [Phys. Rev. D 101, 104033 (2020)](https://dx.doi.org/10.1103/PhysRevD.101.104033),
@@ -36,6 +41,14 @@ We called the outcome of these measurement procedures "persistent gravitational-
 
 The first class of spacetimes that we investigated were the so-called nonlinear plane-wave spacetimes.
 We found that several observables can be obtained from the values of tensors that solve the equation of geodesic deviation (specifically for observalbes that involved geodesic curves).
-Thus, these observables contain information that is equivalent to the displacement and subleading displacement (e.g., spin or center-of-mass) gravitational-wave memory effects.
+Thus, these observables contain information that is equivalent to the displacement and subleading displacement (e.g., spin or center of mass) gravitational-wave memory effects.
 However, for observables involving worldlines with acceleration, the persistent observables were more nontrivial (and nonlocal) functions of the solutions to the equation of geodesic deviation and the acceleration of the curve.
 This implies that there are much wider range of possible persistent observables than the leading and subleading displacement memory effects (which will be investigated in greater detail in future work).
+
+We then investigated the curve-deviation observable in asymptotically flat spacetimes.
+At leading order in distance from the source, we found that there is an infinite hierarchy of memory effects when the curve-deviation observable is measured by observers with a nontrival, time-dependent acceleration.
+The entire collection of memory effects are sourced by "charge" and "flux" terms, where the flux part vanishes in the absence of gravitational waves. 
+This charge-flux decomposition is well known for the displacement and subleading displacement (spin and center of mass) effects, but it was shown to hold for all of the acceleration-dependent effects in this paper.
+For the effects that depend on higher derivatives of the initial acceleration, the charge and flux sources are more and more subleading parts of the expansion of the spacetime metric and curvature in a series in inverse distance.
+Thus, the curve deviation observable is capable of probing very high-order persistent changes in the spacetime through a measurement at large distances.
+This type of asymptotic reconstruction of the interior of a spacetime is reminiscent of the types of holography that appear in high-energy physics and string theory.
