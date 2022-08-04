@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Research Theme: Persistent Gravitational-Wave Observables"
-date:   2020-05-18
+date:   2022-01-24
 categories: papers
 ---
 
