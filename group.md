@@ -51,7 +51,7 @@ Completed a MS degree in Applied Mathematics at San Diego State University (SDSU
 - **Yara Yousef** <br />
 BS in Astronomy/Physics from UVA in 2020. <br />
 Former senior thesis advisee (on memory-effect detection prospects).
-Currently in MS program in machine learning and articial intellegence at the University of Barcelona.
+Currently in a MS program in machine learning and articial intellegence at the University of Barcelona.
 
 - **Oliver Boersma** [(UvA webpage)](https://api.uva.nl/profile/b/o/o.m.boersma/o.m.boersma.html) <br />
 MS in Astrophysics from Radboud University in 2019. <br />
