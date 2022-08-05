@@ -19,5 +19,5 @@ Below is a list of other locations where you can find lists of my publications:
 * [ORCID](http://orcid.org/0000-0002-4758-9460)
 
 These links have different levels of completeness and accuracy compared with the publication list in my CV.
-In case it helps your searching, note that I publish as David A. Nichols for my short author-list papers, but as D. Nichols as part of larger collaborations.
+In case it helps your searching, note that I almost always publish as David A. Nichols for my short author-list papers, but as D. Nichols or David Nichols for my work as part of larger collaborations.
 
