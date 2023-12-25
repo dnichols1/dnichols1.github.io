@@ -34,7 +34,7 @@ This is illustrated in the figure above, which shows how the signal to noise in 
 Given the rate of events, it is then anticipated that it will take closer to one thousand detections to find evidence for the gravitational-wave memory effect.
 It is thus more likely to be discovered during the next upgrade of the LIGO and Virgo detectors after the detectors achieve their design sensitivity (when LIGO A+ and Advanced Virgo+ are operating).
 
-In more recent work with Alex Grant and I revisited the forecasts for the detection of the gravitational-wave memory effect, because the rate of binary-black-hole mergers was determined more precisely after the many additional discoveries and improved modeling of the binary-black-hole population that occurred during LIGO's third observing run. 
+In more recent work, Alex Grant and I revisited the forecasts for the detection of the gravitational-wave memory effect, because the rate of binary-black-hole mergers was determined more precisely after the many additional discoveries and improved modeling of the binary-black-hole population that occurred during LIGO's third observing run. 
 The LIGO A+ upgrade was also approved, which changed LIGO's observing plans.
 We found that the memory effect would be likely to be detected for the population of black-hole mergers within a few years of LIGO A+ reaching its design sensitivity.
 For the next-generation gravitational-wave detector, Cosmic Explorer, this detector would likely detect the memory effect from a single, high signal-to-noise binary-black-hole observation.
