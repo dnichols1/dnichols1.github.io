@@ -11,7 +11,7 @@ Below are current and former group members and advisees. I do not anticipate hav
 
 ### Postdoctoral Scholars ###
 
-- **Sayantani Datta** [UVA Rising Scholars webpage](https://postdoc.virginia.edu/postdoc-directory/sayantani-datta) <br />
+- **Sayantani Datta** [(UVA Rising Scholars webpage)](https://postdoc.virginia.edu/postdoc-directory/sayantani-datta) <br />
 UVA Rising Scholar Postdoctoral Fellow in Physics and group member since 09/2023. <br />
 *Research Areas*: Tests of general relativity, gravitational-wave memory
  
@@ -30,7 +30,7 @@ UVA PhD student in Physics and group member since 01/2022. <br />
 *Research Areas*: Asymptotically flat spacetimes, gravitational-wave memory and persistent observables
 
 
-### Former Group Members and Advisees ###
+## Former Group Members and Advisees ##
 
 - **Alexander Grant**  <br />
 UVA postdoc in Physics 09/2020--08/2023. <br />
@@ -38,27 +38,27 @@ Currently a postdoctoral scholar at the University of Southampton.
 
 - **Shammi Tahura** <br />
 PhD in Physics from UVA in 2021. <br />
-Former PhD student of [Kent Yagi](https://kentyagi27.wixsite.com/website).
-Currently a postdoc at the University of Guelph.
+Former PhD student of [Kent Yagi](https://kentyagi27.wixsite.com/website) and postdoc at the University of Guelph.
+Currently a visiting research associate at the University of Iowa.
 
 - **Bejoy Sen** <br /> 
 BS in Physics and Computer Science from UVA in 2023 <br />
-Independent-study research project on spacetime curvature visualization; currently working in industry.
+Independent-study research project on spacetime curvature visualization 01/2022--05/2022; currently working in industry.
 
 - **Andrew Tuma** <br />
 BS in Physics from UVA in 2020. <br /> 
-Former senior thesis advisee (on spacetime visualization methods).
-Completed a MS degree in Applied Mathematics at San Diego State University (SDSU); currently working in industry.
+Former senior thesis advisee (on spacetime visualization methods) 09/2019--05/2020.
+Completed a MS degree in Applied Mathematics at San Diego State University (SDSU); currently working in industry as a data scientist.
 
 - **Yara Yousef** <br />
 BS in Astronomy/Physics from UVA in 2020. <br />
-Former senior thesis advisee (on memory-effect detection prospects).
+Former senior thesis advisee (on memory-effect detection prospects) 09/2019--05/2020.
 Currently in a MS program in machine learning and articial intellegence at the University of Barcelona.
 
-- **Oliver Boersma** [(UvA webpage)](https://api.uva.nl/profile/b/o/o.m.boersma/o.m.boersma.html) <br />
+- **Oliver Boersma** <br />
 MS in Astrophysics from Radboud University in 2019. <br />
 Co-advised MS thesis (on memory-effect detection prospects) with [Patricia Schmidt](https://www.sr.bham.ac.uk/gwgroup/people.php).
-Currently in the PhD program in astronomy at the University of Amsterdam (NL).
+Completed a PhD program in astronomy at the University of Amsterdam (NL) and currently working for the Rijkswaterstaat as a data scientist.
 
 - **Andras Dorozsmai** <br /> 
 MS in Astrophysics from Radboud University in 2018. <br />
