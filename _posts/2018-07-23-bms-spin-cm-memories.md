@@ -1,13 +1,17 @@
 ---
 layout: single
 title:  "Research Theme: Extended BMS Algebra, Spin and Center-of-Mass Memory Effects"
-date:   2018-07-23
+date:   2023-11-06
 categories: papers
 ---
 
-This post summarizes three papers related to the conserved quantities of an extension of the Bondi-Metzner-Sachs (BMS) group and two related new memory effects.
+This post summarizes four papers related to the conserved quantities of an extension of the Bondi-Metzner-Sachs (BMS) group and two related new memory effects.
 
 ## Papers Highlighted
+
+* E. E. Flanagan and **D. A. Nichols**. 
+"Fully nonlinear transformations of the Weyl-Bondi-Metzner-Sachs asymptotic symmetry group," (2023)
+[arxiv:2311.03130](http://arxiv.org/abs/2311.03130).
 
 * **D. A. Nichols**. 
 "Center-of-mass angular momentum and memory effect in asymptotically flat spacetimes." 
@@ -47,3 +51,7 @@ There are terms in the gravitational waves related to the center-of-mass memory 
 These gravitational-wave terms, however, will be weaker than those related to the spin memory effect. 
 As a result, it is less likely that the next generation of gravitational-wave detectors will be able to find evidence for the effect. 
 It should, however, appear in the post-Newtonian expansion of the gravitational waveform, when the gravtiational waveform is computed at fourth post-Newtonian order.
+
+Most recently, Eanna Flanagan and I computed the transformation properties of the metric functions in the BMS formalism under different classes of fully nonlinear coordinate transformations.
+We were able to compute, and slightly generalize, the form of a vacuum solution under a new set of symmetry transformations known as the Weyl BMS group. 
+These expressions for the transformations of the metric functions will prove useful in understanding how the conserved quantities in the BMS, generalized BMS and Weyl BMS transform under the respectively class of symmetry transformations.
