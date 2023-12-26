@@ -11,10 +11,10 @@ Below are current and former group members and advisees. I do not anticipate hav
 
 ### Postdoctoral Scholars ###
 
-- **Alexander Grant** [(UVA Physics webpage)](http://www.phys.virginia.edu/People/personal.asp?UID=jgt5fu) <br />
-UVA postdoc in Physics and group member since 09/2020. <br />
-*Research Areas*: Gravitational-wave memory, asymptotically flat spacetimes, environmental effects in extreme- and intermediate-mass-ratio inspirals
-
+- **Sayantani Datta** [UVA Rising Scholars webpage](https://postdoc.virginia.edu/postdoc-directory/sayantani-datta) <br />
+UVA Rising Scholar Postdoctoral Fellow in Physics and group member since 09/2023. <br />
+*Research Areas*: Tests of general relativity, gravitational-wave memory
+ 
 ### Graduate Students ###
 
 - **Arwa Elhashash** [(UVA Physics webpage)](http://www.phys.virginia.edu/People/personal.asp?UID=aze5tn) <br /> 
@@ -29,19 +29,21 @@ UVA PhD student in Physics and group member since 02/2021. <br />
 UVA PhD student in Physics and group member since 01/2022. <br />
 *Research Areas*: Asymptotically flat spacetimes, gravitational-wave memory and persistent observables
 
-### Undergraduate Students ###
 
-- **Bejoy Sen** [(UVA Physics webpage)](http://www.phys.virginia.edu/People/personal.asp?UID=bs7fhr) <br /> 
-UVA BS student in Physics and Computer Science, and group member since 01/2022. <br />
-*Research Areas*: Visualization of spacetime curvature
+### Former Group Members and Advisees ###
 
+- **Alexander Grant**  <br />
+UVA postdoc in Physics 09/2020--08/2023. <br />
+Currently a postdoctoral scholar at the University of Southampton.
 
-## Former Group Members and Advisees ##
-
-* **Shammi Tahura** <br />
+- **Shammi Tahura** <br />
 PhD in Physics from UVA in 2021. <br />
 Former PhD student of [Kent Yagi](https://kentyagi27.wixsite.com/website).
 Currently a postdoc at the University of Guelph.
+
+- **Bejoy Sen** <br /> 
+BS in Physics and Computer Science from UVA in 2023 <br />
+Independent-study research project on spacetime curvature visualization; currently working in industry.
 
 - **Andrew Tuma** <br />
 BS in Physics from UVA in 2020. <br /> 
