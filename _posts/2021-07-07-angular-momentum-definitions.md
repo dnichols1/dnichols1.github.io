@@ -1,20 +1,22 @@
 ---
 layout: single
-title:  "Paper: Definitions of (super) angular momentum in asymptotically flat spacetimes: Properties and applications to compact-binary mergers"
+title:  "Research Theme: Definitions of (super) angular momentum in asymptotically flat spacetimes"
 date:   2021-07-07
 categories: papers
 ---
 
-This post highlights a paper that investigates several commonly used definitions of angular momentum and super angular momentum in asymptotically flat spacetimes and the differences in the values of the (super) angular momentum predicted by these definitions for binary-black-hole mergers.
+This post highlights a paper and essay that investigates several commonly used definitions of angular momentum and super angular momentum in asymptotically flat spacetimes and the differences in the values of the (super) angular momentum predicted by these definitions for binary-black-hole mergers.
 
-## Paper Highlighted ##
+## Papers Highlighted ##
 
 * A. Elhashash and **D. A. Nichols**.
 "Definitions of (super) angular momentum in asymptotically flat spacetimes: Properties and applications to compact-binary mergers."
 [Phys. Rev. D 104, 024020 (2021)](https://doi.org/10.1103/PhysRevD.104.024020),
 [arXiv:2101.12228](http://arxiv.org/abs/2101.12228).
 
-## Summary of the Paper ##
+* G. Compere and **D. A. Nichols**. "Classical and Quantized General-Relativistic Angular Momentum," (2021). [arXiv:2103.17103](https://arxiv.org/abs/2103.17103).
+
+## Summary of the Papers ##
 
 ![](/images/deltaJz.png)
 
@@ -34,3 +36,7 @@ We also investigated a one-parameter family of super angular momentum, a kind of
 For the super angular momentum, there is again a difference between the definitions, but this difference lasts after the gravitational waves have passed (which occurs because of the graviational-wave memory effect).
 The amplitude of the differences in the (super) angular momentum are small, but they can be resolved by numerical simulations of binary-black-hole mergers.
 
+I also wrote an essay for the 2021 Gravity Research Foundation Essays on Gravitation competition with Geoffrey Compere.
+The subject of the essay was the definition and transformation properties of angular momentum and its generalizations in asymptotically flat spacetimes.
+We discussed the fact that the most-frequently used value in the one-parameter family of angular momentum (that which reduces to the Komar formula when there is an exact rotational symmetry) is not the same value of the angular momentum that gives rise to the standard charge algebra for the super angular momentum.
+We also noted that there are a wider range of possible definitions of angular momentum and its generalizations beyond the one-parameter family discussed above, including those which behave like an intrinsic angular momentum that does not transform under (super)translations.
