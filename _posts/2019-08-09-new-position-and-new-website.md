@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "New Position and New Website"
+title:  "News Update: New Position and New Website"
 date:   2019-08-09
 categories: news
 ---
