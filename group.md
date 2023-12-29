@@ -32,14 +32,30 @@ UVA PhD student in Physics and group member since 01/2022. <br />
 
 ## Former Group Members and Advisees ##
 
+### Postdoctoral Scholars ###
+
 - **Alexander Grant**  <br />
 UVA postdoc in Physics 09/2020--08/2023. <br />
 Currently a postdoctoral scholar at the University of Southampton.
+
+### Graduate Students ###
 
 - **Shammi Tahura** <br />
 PhD in Physics from UVA in 2021. <br />
 Former PhD student of [Kent Yagi](https://kentyagi27.wixsite.com/website) and postdoc at the University of Guelph.
 Currently a visiting research associate at the University of Iowa.
+
+- **Oliver Boersma** <br />
+MS in Astrophysics from Radboud University in 2019. <br />
+Co-advised MS thesis (on memory-effect detection prospects) with [Patricia Schmidt](https://www.sr.bham.ac.uk/gwgroup/people.php).
+Completed a PhD program in astronomy at the University of Amsterdam (NL) and currently working for the Rijkswaterstaat as a data scientist.
+
+- **Andras Dorozsmai** <br /> 
+MS in Astrophysics from Radboud University in 2018. <br />
+Helped with supervising MS thesis (on compact-object populations); primary supervisor was [Gijs Nelemans](https://www.ru.nl/english/people/nelemans-g/).
+Currently in the PhD program in astrophysics at the University of Birmingham (UK).
+
+### Undergraduate Students ###
 
 - **Bejoy Sen** <br /> 
 BS in Physics and Computer Science from UVA in 2023 <br />
@@ -55,12 +71,4 @@ BS in Astronomy/Physics from UVA in 2020. <br />
 Former senior thesis advisee (on memory-effect detection prospects) 09/2019--05/2020.
 Currently in a MS program in machine learning and articial intellegence at the University of Barcelona.
 
-- **Oliver Boersma** <br />
-MS in Astrophysics from Radboud University in 2019. <br />
-Co-advised MS thesis (on memory-effect detection prospects) with [Patricia Schmidt](https://www.sr.bham.ac.uk/gwgroup/people.php).
-Completed a PhD program in astronomy at the University of Amsterdam (NL) and currently working for the Rijkswaterstaat as a data scientist.
 
-- **Andras Dorozsmai** <br /> 
-MS in Astrophysics from Radboud University in 2018. <br />
-Helped with supervising MS thesis (on compact-object populations); primary supervisor was [Gijs Nelemans](https://www.ru.nl/english/people/nelemans-g/).
-Currently in the PhD program in astrophysics at the University of Birmingham (UK).
