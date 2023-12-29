@@ -13,6 +13,8 @@ permalink: /visualizations/
 
 [Illustration for a rotating source](#Example3D)
 
+[Illustration for a rotating black hole](#ExampleBH)
+
 ---
 
 ## <a name="Overview"></a>Overview of the visualization method
@@ -27,7 +29,8 @@ Visualizing a matrix is challenging because a matrix contains information about 
 Because the electric and magnetic curvature tensors have some nice properties (they are symmetric about their diagonal elements), they can always be decomposed into a set of three orthogonal directions and three associated magnitudes (or scales), which sum to zero (these are the so-called eigendirections and the eigenvalues associated with the respective directions).
 The full information about the curvature can be illustrated by showing the three directions and information about the three scales associated with each of these three directions.
 The animations and images on this page illustrate a new approach to visualizing these tensors that differs from the original approach described [here]({% post_url 2012-12-19-vortex-and-tendex %}).
-This new method is demonstrated below on two spacetimes that are radiating gravitational waves: one simpler two-dimensional example and one fully three-dimensional example.
+This new method is demonstrated below on three spacetimes.
+Two of them are models of binary black holes radiating gravitational waves far from the black holes and (one simpler two-dimensional example and one fully three-dimensional example), and one is a rotating black hole in isolation.
 
 The visualization technique is as follows.
 The directions are illustrated by using a set of short orthogonal lines at a number of points distributed uniformly throughout space in the coordinates used (two lines in the 2D case, and three in the 3D case).
@@ -95,7 +98,31 @@ The most prominent part, in fact, is in the equatorial plane in the region where
 This magnetic part of the curvature is induced by the time-varying electric part, analogously to the induction through the displacement current in Maxwell's equations.
 Also at larger distances, the field along the polar axis becomes stronger, and it will eventually become the dominant part at even larger distances.
 The transverse directions are similar to those of the electric part at larger distances, but are rotated by forty-five degrees.
-This is also typical of gravitational waves.[^1]
+This is also typical of gravitational waves.
+[Return to contents.](#Contents)
+
+## <a name="Example3D"></a>Illustration for a rotating black hole
+
+![Electric and magnetic parts of the curvature for a black hole](/images/KerrTendexVortexWeb.png)
+
+This third example, illustrated above, shows the two types of curvature for a black hole rotating at ninety percent of the maximum value.
+The electric type (tidal stretching and squeezing) is on the left half of the image and the magnetic type (frame-drag relative twisting) is on the right half of the image.
+In both images, the event horizon of the black hole is illustrated by a black squashed ellipsoidal surface in the center of each image (it is more obscured by the gray
+colored region in the left panel than it is in the right panel).
+The red and blue axes at each point in each image indicate the directions of the stretching and squeezing (left) and twisting (right) effects induced by the curvature of space and time.
+
+The gray-colored volumes in the image on the left illustrate the surfaces of constant largest eigenvalue in magnitude when the radial dependence of the strength of the tidal stretching and squeezing has been scaled out to highlight the angular pattern of the effect.
+A black hole that is not rotating would have no angular pattern, so the gray regions would be spherical surfaces.
+Moving far away from the black hole, the surfaces of constant eigenvalue would become these spherical shapes.
+However, close to the black hole, the effects of stretching and squeezing along the axis of rotation of the black hole differs from that along the plane that passes through the equator of the black hole.
+This gives rise to the two lobes above and below the black hole (centered around its two poles) and the donut-shaped ring around the equator of the black hole.
+The lighter gray color here indicates that the tidal effects are larger near the equator than they are close to the poles.
+The stretching and squeezing is symmetric about the equator of the black hole, so although some of the regions below the equator are obscured from this view point, they are equivalent to those regions that are visualized above the equator.
+
+On the right panel of the image, the frame-drag twisting effects vanish in the equatorial plane passing through the equator of the black hole (shown by the dark plane region) and the twisting effects are largest near the poles, where there are the lighter gray conical-shaped regions.
+The magnitude of the twisting effect has again been scaled by the distance from the center of the black hole to highlight the angular pattern of the effect.
+The direction of the rotation is equal and opposite above and below the black hole's equator.
+Thus, one does not miss out on any aspect of the visualization by viewing from above, as is done here.[^1]
 [Return to contents.](#Contents)
 
 [^1]: This material on this page on visualizations is based upon work supported by the National Science Foundation under Grant Number PHY-2011784. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author and do not necessarily reflect the views of the National Science Foundation.
