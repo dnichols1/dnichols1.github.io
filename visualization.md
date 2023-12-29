@@ -101,7 +101,7 @@ The transverse directions are similar to those of the electric part at larger di
 This is also typical of gravitational waves.
 [Return to contents.](#Contents)
 
-## <a name="Example3D"></a>Illustration for a rotating black hole
+## <a name="ExampleBH"></a>Illustration for a rotating black hole
 
 ![Electric and magnetic parts of the curvature for a black hole](/images/KerrTendexVortexWeb.png)
 
