@@ -9,7 +9,7 @@ This post summarizes work on when the gravitational-wave memory effect and spin 
 
 ## Papers Highlighted
 
-* A. M. Grant and **D. A. Nichols**. "Outlook for detecting the gravitational wave displacement and spin memory effects with current and future gravitational wave detectors." [Phys. Rev. D 107, 064056 (2023)](https://doi.org/10.1103/PhysRevD.107.064056), [arXiv:2210.16266](http://arxiv.org/abs/2210.16266). Erratum: [Phys. Rev. D 108, 029901](https://doi.org/10.1103/PhysRevD.108.029901).
+* A. M. Grant and **D. A. Nichols**. "Outlook for detecting the gravitational wave displacement and spin memory effects with current and future gravitational wave detectors." [Phys. Rev. D 107, 064056 (2023)](https://doi.org/10.1103/PhysRevD.107.064056), [arXiv:2210.16266](http://arxiv.org/abs/2210.16266). Erratum: [Phys. Rev. D 108, 029901 (2023)](https://doi.org/10.1103/PhysRevD.108.029901).
 
 * O. M. Boersma, **D. A. Nichols**, and P. Schmidt. 
 "Forecasts for detecting the gravitational-wave memory effect with Advanced LIGO and Virgo."
