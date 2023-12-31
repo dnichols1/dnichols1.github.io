@@ -54,4 +54,4 @@ It should, however, appear in the post-Newtonian expansion of the gravitational 
 
 Most recently, Eanna Flanagan and I computed the transformation properties of the metric functions in the BMS formalism under different classes of fully nonlinear coordinate transformations.
 We were able to compute, and slightly generalize, the form of a vacuum solution under a new set of symmetry transformations known as the Weyl BMS group. 
-These expressions for the transformations of the metric functions will prove useful in understanding how the conserved quantities in the BMS, generalized BMS and Weyl BMS transform under the respectively class of symmetry transformations.
+These expressions for the transformations of the metric functions will prove useful in understanding how the conserved quantities in the BMS, generalized BMS and Weyl BMS transform under the respective class of symmetry transformations.
