@@ -5,7 +5,7 @@ date:   2023-12-21
 categories: papers
 ---
 
-This post describes two papers on the dynamics of dark matter in intermediate mass-ratio inspirals (IMRIs), the gravitational waves emitted from these systems, and the prospects for detecting the dark matter using gravitational-wave observations with the planned detector LISA. 
+This post describes three papers on the dynamics of dark matter in intermediate mass-ratio inspirals (IMRIs), the gravitational waves emitted from these systems, and the prospects for detecting the dark matter using gravitational-wave observations with the planned detector LISA. 
 
 ## Papers Highlighted ##
 
