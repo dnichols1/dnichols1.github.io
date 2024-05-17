@@ -10,7 +10,7 @@ This post summarizes four papers related to the conserved quantities of an exten
 ## Papers Highlighted
 
 * E. E. Flanagan and **D. A. Nichols**. 
-"Fully nonlinear transformations of the Weyl-Bondi-Metzner-Sachs asymptotic symmetry group," (2023)
+"Fully nonlinear transformations of the Weyl-Bondi-Metzner-Sachs asymptotic symmetry group." [J. High Energy Phys. 03, 120 (2024)](https://doi.org/10.1007/JHEP03(2024)120)
 [arxiv:2311.03130](http://arxiv.org/abs/2311.03130).
 
 * **D. A. Nichols**. 
