@@ -5,7 +5,7 @@ author_profile: true
 permalink: /cv/
 ---
 
-A PDF file of my full CV can be obtained [here](/cv.pdf). Below is a short summary.
+A PDF file of my full CV can be obtained [here](/pdfs/cv.pdf). Below is a short summary.
 
 ## Academic Positions ##
 
