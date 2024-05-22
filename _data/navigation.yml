@@ -3,14 +3,16 @@ main:
     url: /about/
   - title: "CV"
     url: /cv/
-  - title: "Research"
-    url: /research/
   - title: "Group"
     url: /group/
   - title: "Publications"
     url: /publications/
+  - title: "Research"
+    url: /research/
   - title: "Visualizations"
     url: /visualizations/
+  - title: "Writings on Gravity"
+    url: /writings/
   - title: "All Posts"
     url: /posts/
     #   - title: "Tags"
