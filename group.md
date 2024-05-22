@@ -34,7 +34,7 @@ UVA PhD student in Physics and group member since 01/2022. <br />
 
 ### Postdoctoral Scholars ###
 
-- **Alexander Grant** [Research Webpage](https://alex_grant.gitlab.io/) <br />
+- **Alexander Grant** [(Research webpage)](https://alex_grant.gitlab.io/) <br />
 UVA postdoc in Physics 09/2020--08/2023. <br />
 Currently a postdoctoral scholar at the University of Southampton.
 
