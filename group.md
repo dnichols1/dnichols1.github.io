@@ -17,15 +17,15 @@ UVA Rising Scholar Postdoctoral Fellow in Physics and group member since 09/2023
  
 ### Graduate Students ###
 
-- **Arwa Elhashash** [(UVA Physics webpage)](http://www.phys.virginia.edu/People/personal.asp?UID=aze5tn) <br /> 
+- **Arwa Elhashash** [(UVA Physics webpage)](https://www.phys.virginia.edu/People/personal.asp?UID=aze5tn) <br /> 
 UVA PhD student in Physics and group member since 08/2019. <br />
 *Research Areas*: Asymptotically flat spacetimes, gravitational-wave memory and waveform modeling
 
-- **Benjamin Wade** [(UVA Physics webpage)](http://www.phys.virginia.edu/People/personal.asp?UID=baw8td) <br /> 
+- **Benjamin Wade** [(UVA Physics webpage)](https://www.phys.virginia.edu/People/personal.asp?UID=baw8td) <br /> 
 UVA PhD student in Physics and group member since 02/2021. <br />
 *Research Areas*: Environmental effects in extreme- and intermediate-mass-ratio inspirals
 
-- **Siddhant Siddhant** [(UVA Physics webpage)](http://www.phys.virginia.edu/People/personal.asp?UID=sbp4ab) <br /> 
+- **Siddhant Siddhant** [(UVA Physics webpage)](https://www.phys.virginia.edu/People/personal.asp?UID=sbp4ab) <br /> 
 UVA PhD student in Physics and group member since 01/2022. <br />
 *Research Areas*: Asymptotically flat spacetimes, gravitational-wave memory and persistent observables
 
@@ -34,7 +34,7 @@ UVA PhD student in Physics and group member since 01/2022. <br />
 
 ### Postdoctoral Scholars ###
 
-- **Alexander Grant**  <br />
+- **Alexander Grant** [Research Webpage](https://alex_grant.gitlab.io/) <br />
 UVA postdoc in Physics 09/2020--08/2023. <br />
 Currently a postdoctoral scholar at the University of Southampton.
 
