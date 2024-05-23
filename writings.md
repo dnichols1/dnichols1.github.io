@@ -12,5 +12,4 @@ Future writings on other topics in gravitation will also appear here, once they 
 
 [Black Holes in Brief: A Creative Introduction](/pdfs/BHwriting.pdf)
 
-[^1]: This material on this webpage is based upon work supported by the National Science Foundation under Grant Number PHY-2309021. 
-Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author and do not necessarily reflect the views of the National Science Foundation.
+[^1]: This material on this webpage is based upon work supported by the National Science Foundation under Grant Number PHY-2309021. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author and do not necessarily reflect the views of the National Science Foundation.
