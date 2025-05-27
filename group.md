@@ -12,14 +12,10 @@ Below are current and former group members and advisees. I do not anticipate hav
 ### Postdoctoral Scholars ###
 
 - **Sayantani Datta** [(UVA Rising Scholars webpage)](https://postdoc.virginia.edu/postdoc-directory/sayantani-datta) <br />
-UVA Rising Scholar Postdoctoral Fellow in Physics and group member since 09/2023. <br />
+UVA Rising Scholar Postdoctoral Fellow in Physics and group member since 09/2023; co-advised with [Kent Yagi](https://kentyagi27.wixsite.com/website). <br />
 *Research Areas*: Tests of general relativity, gravitational-wave memory
  
 ### Graduate Students ###
-
-- **Arwa Elhashash** [(UVA Physics webpage)](https://www.phys.virginia.edu/People/personal.asp?UID=aze5tn) <br /> 
-UVA PhD student in Physics and group member since 08/2019. <br />
-*Research Areas*: Asymptotically flat spacetimes, gravitational-wave memory and waveform modeling
 
 - **Benjamin Wade** [(UVA Physics webpage)](https://www.phys.virginia.edu/People/personal.asp?UID=baw8td) <br /> 
 UVA PhD student in Physics and group member since 02/2021. <br />
@@ -27,7 +23,11 @@ UVA PhD student in Physics and group member since 02/2021. <br />
 
 - **Siddhant Siddhant** [(UVA Physics webpage)](https://www.phys.virginia.edu/People/personal.asp?UID=sbp4ab) <br /> 
 UVA PhD student in Physics and group member since 01/2022. <br />
-*Research Areas*: Asymptotically flat spacetimes, gravitational-wave memory and persistent observables
+*Research Areas*: Asymptotically flat spacetimes, gravitational-wave memory effects
+
+- **Cuishan Liu** [(UVA Physics webpage)](https://www.phys.virginia.edu/People/personal.asp?UID=ktk4sz) <br /> 
+UVA PhD student in Physics and group member since 05/2023. <br />
+*Research Areas*: Black-hole ringdown, gravitational-wave memory
 
 
 ## Former Group Members and Advisees ##
@@ -40,22 +40,25 @@ Currently a postdoctoral scholar at the University of Southampton.
 
 ### Graduate Students ###
 
-- **Shammi Tahura** <br />
-PhD in Physics from UVA in 2021. <br />
-Former PhD student of [Kent Yagi](https://kentyagi27.wixsite.com/website) and postdoc at the University of Guelph.
-Currently a visiting research associate at the University of Iowa.
+- **Arwa Elhashash** <br /> 
+First UVA PhD student in Physics who I supervised, 08/2019--05/2025. <br />
+Will start a postdoctoral fellowship in the fall of 2025.
 
 - **Oliver Boersma** <br />
 MS in Astrophysics from Radboud University in 2019. <br />
 Co-advised MS thesis (on memory-effect detection prospects) with [Patricia Schmidt](https://www.sr.bham.ac.uk/gwgroup/people.php).
 Completed a PhD program in astronomy at the University of Amsterdam (NL) and currently working for the Rijkswaterstaat as a data scientist.
 
-- **Andras Dorozsmai** <br /> 
+- **Andris Dorozsmai** <br /> 
 MS in Astrophysics from Radboud University in 2018. <br />
 Helped with supervising MS thesis (on compact-object populations); primary supervisor was [Gijs Nelemans](https://www.ru.nl/english/people/nelemans-g/).
-Currently in the PhD program in astrophysics at the University of Birmingham (UK).
+Currently a postdoc at NAOJ.
 
 ### Undergraduate Students ###
+
+- **Zachary Raney** <br /> 
+BS in Physics and Astronomy minor from UVA in 2025 <br />
+Undergraduate research project (PHYS 3995) on spacetime visualization methods 01/2025--05/2025; currently working in industry.
 
 - **Bejoy Sen** <br /> 
 BS in Physics and Computer Science from UVA in 2023 <br />
@@ -63,12 +66,12 @@ Independent-study research project on spacetime curvature visualization 01/2022-
 
 - **Andrew Tuma** <br />
 BS in Physics from UVA in 2020. <br /> 
-Former senior thesis advisee (on spacetime visualization methods) 09/2019--05/2020.
+Undergraduate research project (PHYS 3995) on spacetime visualization methods 09/2019--05/2020.
 Completed a MS degree in Applied Mathematics at San Diego State University (SDSU); currently working in industry as a data scientist.
 
 - **Yara Yousef** <br />
-BS in Astronomy/Physics from UVA in 2020. <br />
-Former senior thesis advisee (on memory-effect detection prospects) 09/2019--05/2020.
+BS in Astronomy-Physics from UVA in 2020. <br />
+Undergraduate research project (PHYS 3995) on memory-effect detection prospects 09/2019--05/2020.
 Currently in a MS program in machine learning and articial intellegence at the University of Barcelona.
 
 
