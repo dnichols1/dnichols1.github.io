@@ -1,22 +1,27 @@
 ---
 layout: single
-title:  "Research Theme: Brans-Dicke theory in Bondi-Sachs form"
-date:   2021-11-08
+title:  "Research Theme: Scalar-tensory gravity in Bondi-Sachs form"
+date:   2025-01-13
 categories: papers
 ---
 
-This post reviews two papers that treat asymptotically flat spacetimes in Brans-Dicke theory. 
+This post reviews three papers that treat asymptotically flat spacetimes in scalar-tensor theories of gravity. 
+The first two papers dealt one theory called Brans-Dicke (BD) theory, whereas the third paper dealt with an extension of the theory by Damour and Esposito-Farese (DEF).
 In the first paper, we gave the conditions for asymptotic flatness in this theory, computed the asymptotic solutions of the field equations, determined the asymptotic symmetries, obtained the conserved charges, and understood how the memory effects could be computed through flux laws.
 In the second paper, we applied the results of the first to compute gravitational-wave memory effects from compact binaries in the post-Newtonian approximation.
+In the third paper, we revisited the calculations in the first two papers in the more general DEF theory.
 
 ## Papers Highlighted ##
+
+* S. Tahura, **D. A. Nichols**, and K. Yagi, "Gravitational-wave memory effects in the Damour-Esposito-Farese extension of Brans-Dicke theory," (2025).
+[arXiv:2501.07488](https://arxiv.org/abs/2501.07488).
 
 * S. Tahura, **D. A. Nichols**, and K. Yagi, "Gravitational-wave memory effects in Brans-Dicke theory: Waveforms and effects in the post-Newtonian approximation." 
 [Phys. Rev. D 104, 104010, (2021)](https://doi.org/10.1103/PhysRevD.104.104010),
 [arXiv:2107.02208](https://arxiv.org/abs/2107.02208).
 
 * S. Tahura, **D. A. Nichols**, A. Saffer, L. C. Stein, and K. Yagi, 
-"Brans-Dicke theory in Bondi-Sachs form: Asymptotically flat solutions, asymptotic symmetries and gravitationalwave memory effects."
+"Brans-Dicke theory in Bondi-Sachs form: Asymptotically flat solutions, asymptotic symmetries and gravitational-wave memory effects."
 [Phys. Rev. D 103, 104026, (2021)](https://doi.org/10.1103/PhysRevD.103.104026),
 [arXiv:2007.13799](https://arxiv.org/abs/2007.13799).
 
@@ -38,3 +43,8 @@ First, the scalar-polarized radiation produces a small effect of a negative post
 Second, this radiation also changes the sky pattern of the memory effect around the source.
 Because the size of these effects is small, it will be challenging to detect with current (and even future) gravitational-wave detectors.
 There is the possibility that these slight differences could be found in a population of events (if indeed Brans-Dicke theory describes the gravitational interaction in nature).
+
+The most recent paper extended the results of the previous two works to DEF gravity.
+The most significant difference in DEF theory is that the scalar field has a nonlinear interaction with itself, which can give rise to enhancements in the magnitude of the scalar field, particularly in strong-gravity regions of the spacetime.
+In the asymptotically flat part of the spacetime, these nonlinearities give rise to small differences in the memory effects.
+Because the effects are nonlinear, they are of second-order in a small coupling parameter, which would make these modifications small and challenging to distinguish observationally from the effects in BD theory.
