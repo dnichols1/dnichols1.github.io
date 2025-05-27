@@ -7,12 +7,10 @@ main:
     url: /group/
   - title: "Publications"
     url: /publications/
+  - title: "Outreach"
+    url: /outreach/    
   - title: "Research"
     url: /research/
-  - title: "Visualizations"
-    url: /visualizations/
-  - title: "Writings on Gravity"
-    url: /writings/
   - title: "All Posts"
     url: /posts/
     #   - title: "Tags"
