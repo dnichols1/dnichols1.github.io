@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Research Theme: Dynamics of dark matter in intermediate mass-ratio inspirals"
-date:   2023-12-21
+date:   2024-12-04
 categories: papers
 ---
 
