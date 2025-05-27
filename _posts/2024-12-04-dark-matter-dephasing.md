@@ -9,6 +9,11 @@ This post describes three papers on the dynamics of dark matter in intermediate 
 
 ## Papers Highlighted ##
 
+* E. Wilcox, **D. A. Nichols**, and K. Yagi.
+"Probing dark-matter effects with gravitational waves using the parametrized post-Einsteinian framework."
+[Phys. Rev. D 110, 124009 (2024)](https://doi.org/10.1103/PhysRevD.110.124009),
+[arXiv:2409.10846](https://arxiv.org/abs/2409.10846).
+
 * **D. A. Nichols**, B. Wade, and A. M. Grant. 
 "Secondary accretion of dark matter in intermediate mass-ratio inspirals: Dark-matter dynamics and gravitational-wave phase." 
 [Phys. Rev. D 108, 124062 (2023)](https://doi.org/10.1103/PhysRevD.108.124062),
@@ -54,3 +59,9 @@ We found that previous calculations of the amount of accretion onto the secondar
 Adding in feedback from dynamical friction and evolving the dark-matter distribution decreased the amount of overestimate, but still did not account for the mass loss from the dark-matter density from accretion onto the secondary.
 We then derived and implemented a procedure to remove dark-matter particles from the dark-matter distribution so that mass was conserved.
 This led to smaller gravitational-wave effects from the accretion process, but there still were scenarios in which the effects of accretion were large enough that they would likely be measurable by the LISA detector, if such a system were observed.
+
+In the fourth paper (Wilcox, Nichols and Yagi), we investigated how well a commonly used framework to test general relativity against the predictions of modified theories of gravity (the parametrized post-Einsteinian framework) could be adapted to check for the presence of dark matter around IMRIs.
+If the distribution of dark matter were known to be spherically symmetric with a power-law falloff in radius, then the exponent in the framework could be fixed and unbiased parameter estimation could be performed.
+However, because it is unlikely that the dark-matter distribution would be known (and would follow a single power-law), then the exponent should not be fixed in the framework.
+When the exponent was not fixed, the recovery of the parameters had a large systematic error, which generally exceeded the statistical error.
+This work showed that dedicated gravitational waveforms from IMRIs with surrounding dynamical dark-matter distributions would likely be needed to analyze these systems without introducing significant systematic errors.
