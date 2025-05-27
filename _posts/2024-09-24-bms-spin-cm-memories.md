@@ -10,7 +10,7 @@ This post summarizes five papers related to the conserved quantities of extensio
 ## Papers Highlighted
 
 * S. Siddhant, A. M. Grant and **D. A. Nichols**.
-"Higher memory effects and the post-Newtonian calculation of their gravitational-wave signals," (2024).
+"Higher memory effects and the post-Newtonian calculation of their gravitational-wave signals." [Classical Quantum Gravity 41, 205014 (2024)](https://doi.org/10.1088/1361-6382/ad7663).
 [arxiv:2403.13907](https://arxiv.org/abs/2403.13907)
 
 * E. E. Flanagan and **D. A. Nichols**. 
