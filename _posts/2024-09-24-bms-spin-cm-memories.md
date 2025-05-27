@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Research Theme: Extended BMS Symmetries, Spin, Center-of-Mass and Higher Memory Effects"
-date:   2024-03-20
+date:   2024-09-24
 categories: papers
 ---
 
