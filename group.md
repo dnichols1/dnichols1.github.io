@@ -5,7 +5,7 @@ author_profile: true
 permalink: /group/
 ---
 
-Below are current and former group members and advisees. I do not anticipate having support for a PhD student or postdoc during the upcoming application cycle, though I am happy to support applications for fellowships to work in my group. I can, however, guide undergraduate research projects and senior theses. You can contact me by email to inquire about open positions in the group.
+Below are current and former group members and advisees. I do not anticipate having sufficient funding for a PhD student or postdoc during the upcoming application cycle, though I am happy to support applications for fellowships to work in my group. For UVA undergraduate students, I can guide unfunded undergraduate research projects (including PHYS 3995), such as the one described on the UVA SPS website, [here](https://spsatuva.github.io).
 
 ## Current Group Members ##
 
