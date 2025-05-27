@@ -46,32 +46,40 @@ Will start a postdoctoral fellowship in the fall of 2025.
 
 - **Oliver Boersma** <br />
 MS in Astrophysics from Radboud University in 2019. <br />
-Co-advised MS thesis (on memory-effect detection prospects) with [Patricia Schmidt](https://www.sr.bham.ac.uk/gwgroup/people.php).
+Co-advised MS thesis (on memory-effect detection prospects) with [Patricia Schmidt](https://www.sr.bham.ac.uk/gwgroup/people.php). <br />
 Completed a PhD program in astronomy at the University of Amsterdam (NL) and currently working for the Rijkswaterstaat as a data scientist.
 
 - **Andris Dorozsmai** <br /> 
 MS in Astrophysics from Radboud University in 2018. <br />
-Helped with supervising MS thesis (on compact-object populations); primary supervisor was [Gijs Nelemans](https://www.ru.nl/english/people/nelemans-g/).
+Helped with supervising MS thesis (on compact-object populations); primary supervisor was [Gijs Nelemans](https://www.ru.nl/english/people/nelemans-g/). <br />
 Currently a postdoc at NAOJ.
+
+### Postbaccalaureate Students ###
+
+- **Leenie Wilcox** <br /> 
+Physics Bridge student, co-supervised with Kent Yagi, 09/2023--08/2024. <br />
+Currently teaching high-school physics.
 
 ### Undergraduate Students ###
 
 - **Zachary Raney** <br /> 
 BS in Physics and Astronomy minor from UVA in 2025 <br />
-Undergraduate research project (PHYS 3995) on spacetime visualization methods 01/2025--05/2025; currently working in industry.
+Undergraduate research project (PHYS 3995) on spacetime visualization methods 01/2025--05/2025. <br />
+Currently working in industry.
 
 - **Bejoy Sen** <br /> 
 BS in Physics and Computer Science from UVA in 2023 <br />
-Independent-study research project on spacetime curvature visualization 01/2022--05/2022; currently working in industry.
+Independent-study research project on spacetime curvature visualization 01/2022--05/2022. <br />
+Currently working in industry.
 
 - **Andrew Tuma** <br />
 BS in Physics from UVA in 2020. <br /> 
-Undergraduate research project (PHYS 3995) on spacetime visualization methods 09/2019--05/2020.
+Undergraduate research project (PHYS 3995) on spacetime visualization methods 09/2019--05/2020. <br /> 
 Completed a MS degree in Applied Mathematics at San Diego State University (SDSU); currently working in industry as a data scientist.
 
 - **Yara Yousef** <br />
 BS in Astronomy-Physics from UVA in 2020. <br />
-Undergraduate research project (PHYS 3995) on memory-effect detection prospects 09/2019--05/2020.
+Undergraduate research project (PHYS 3995) on memory-effect detection prospects 09/2019--05/2020. <br /> 
 Currently in a MS program in machine learning and articial intellegence at the University of Barcelona.
 
 
