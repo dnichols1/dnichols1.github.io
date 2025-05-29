@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Research Theme: Scalar-tensory gravity in Bondi-Sachs form"
+title:  "Research Theme: Scalar-tensor gravity in Bondi-Sachs form"
 date:   2025-01-13
 categories: papers
 ---
