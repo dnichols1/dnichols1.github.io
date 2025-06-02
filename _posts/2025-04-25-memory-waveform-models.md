@@ -16,7 +16,7 @@ This post describes two papers on constructing gravitational waveform models for
 * A. Elhashash and **D. A. Nichols**.
 "Waveform models for the gravitational-wave memory effect: Extreme mass-ratio limit and final memory offset."
 [Phys. Rev. D 111, 044052 (2025)](https://doi.org/10.1103/PhysRevD.111.044052).
-[arXiv:2504.18635](https://arxiv.org/abs/2504.18635).
+[arXiv:2407.19017](https://arxiv.org/abs/2407.19017).
 
 ## Summary of the Papers ##
 
