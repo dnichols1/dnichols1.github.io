@@ -15,7 +15,7 @@ Below are current and former group members and advisees. I do not anticipate hav
 UVA Rising Scholar Postdoctoral Fellow in Physics and group member since 09/2023; co-advised with [Kent Yagi](https://kentyagi27.wixsite.com/website). <br />
 *Research Areas*: Tests of general relativity, gravitational-wave memory
  
-### Graduate Students ###
+### PhD Students ###
 
 - **Benjamin Wade** [(UVA Physics webpage)](https://www.phys.virginia.edu/People/personal.asp?UID=baw8td) <br /> 
 UVA PhD student in Physics and group member since 02/2021. <br />
@@ -38,11 +38,13 @@ UVA PhD student in Physics and group member since 05/2023. <br />
 UVA postdoc in Physics 09/2020--08/2023. <br />
 Currently a postdoctoral scholar at the University of Southampton.
 
-### Graduate Students ###
+### PhD Students ###
 
 - **Arwa Elhashash** <br /> 
 First UVA PhD student in Physics who I supervised, 08/2019--05/2025. <br />
 Will start a postdoctoral fellowship in the fall of 2025.
+
+### MS Students ###
 
 - **Oliver Boersma** <br />
 MS in Astrophysics from Radboud University in 2019. <br />
