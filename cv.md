@@ -9,8 +9,11 @@ A PDF file of my full CV can be obtained [here](/pdfs/cv.pdf). Below is a short 
 
 ## Academic Positions ##
 
+- **Associate Professor of Physics** *University of Virginia* <br />
+08/2025&ndash;present
+
 - **Assistant Professor of Physics** *University of Virginia* <br />
-08/2019&ndash;present
+08/2019&ndash;08/2025
 
 - **Senior Postdoctoral Researcher** *University of Amsterdam* <br />
  07/2018&ndash;08/2019
