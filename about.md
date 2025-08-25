@@ -5,8 +5,9 @@ author_profile: true
 permalink: /about/
 ---
 
-Currently, I am an Assistant Professor in the [Department of Physics](https://www.phys.virginia.edu/) at the University of Virginia [(UVA)](https://www.virginia.edu/) in Charlottesville.
-My appointment began at the end of July of 2019 and my profile on the UVA Physics Department's webpage can be accessed [here](https://www.phys.virginia.edu/People/personal.asp?UID=dn2ep).
+As of August 2025, I am an Associate Professor in the [Department of Physics](https://www.phys.virginia.edu/) at the University of Virginia [(UVA)](https://www.virginia.edu/) in Charlottesville.
+My profile on the UVA Physics Department's webpage can be accessed [here](https://www.phys.virginia.edu/People/personal.asp?UID=dn2ep).
+From July 2019 to August 2025 I was an Assistant Professor of Physics at UVA.
 
 From July 2018 to July 2019, I was a senior postdoctoral researcher in the Gravitation Astroparticle Physics Amsterdam [(GRAPPA)](https://grappa.amsterdam/) institute at the University of Amsterdam [(UvA)](https://www.uva.nl/en/home) in The Netherlands. 
 I was part of the gravitational-waves research group there, which is being led by Associate Prof. [Samaya Nissanke](https://samayanissanke.wordpress.com/).
