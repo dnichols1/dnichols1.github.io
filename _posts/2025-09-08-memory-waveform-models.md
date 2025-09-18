@@ -11,7 +11,7 @@ This post describes two papers on constructing gravitational waveform models for
 
 * A. Elhashash and **D. A. Nichols**.
 "Waveform models for the gravitational-wave memory effect: II. Time-domain and frequency-domain models for nonspinning binaries," (2025).
-[Phys. Rev. D 112, 064014 (2025)](https://doi.org/10.1103/wzqk-62wc)
+[Phys. Rev. D 112, 064014 (2025)](https://doi.org/10.1103/wzqk-62wc).
 [arXiv:2504.18635](https://arxiv.org/abs/2504.18635).
 
 * A. Elhashash and **D. A. Nichols**.
