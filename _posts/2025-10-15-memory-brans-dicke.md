@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Research Theme: Scalar-tensor gravity in Bondi-Sachs form"
-date:   2025-01-13
+date:   2025-10-15
 categories: papers
 ---
 
@@ -13,7 +13,8 @@ In the third paper, we revisited the calculations in the first two papers in the
 
 ## Papers Highlighted ##
 
-* S. Tahura, **D. A. Nichols**, and K. Yagi, "Gravitational-wave memory effects in the Damour-Esposito-Farese extension of Brans-Dicke theory," (2025).
+* S. Tahura, **D. A. Nichols**, and K. Yagi, "Gravitational-wave memory effects in the Damour-Esposito-Farese extension of Brans-Dicke theory."
+[Phys. Rev. D 112, 084037 (2025)](https://doi.org/10.1103/c657-4dd5),
 [arXiv:2501.07488](https://arxiv.org/abs/2501.07488).
 
 * S. Tahura, **D. A. Nichols**, and K. Yagi, "Gravitational-wave memory effects in Brans-Dicke theory: Waveforms and effects in the post-Newtonian approximation." 
