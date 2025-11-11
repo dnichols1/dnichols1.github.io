@@ -11,9 +11,9 @@ Below are current and former group members and advisees. I do not anticipate hav
 
 ### Postdoctoral Scholars ###
 
-- **Sayantani Datta** [(UVA Rising Scholars webpage)](https://postdoc.virginia.edu/postdoc-directory/sayantani-datta) <br />
-UVA Rising Scholar Postdoctoral Fellow in Physics and group member since 09/2023; co-advised with [Kent Yagi](https://kentyagi27.wixsite.com/website). <br />
-*Research Areas*: Tests of general relativity, gravitational-wave memory
+- **Indranil Chakraborty** [(Google Scholar webpage)](https://scholar.google.com/citations?user=LtxFDXQAAAAJ&hl=en) <br />
+Fulbright-Nehru postdoctoral researcher and group member since 10/2025. <br />
+*Research Areas*: Classical gravity, gravitational-wave memory
  
 ### PhD Students ###
 
@@ -34,6 +34,10 @@ UVA PhD student in Physics and group member since 05/2023. <br />
 
 ### Postdoctoral Scholars ###
 
+- **Sayantani Datta** [(Google Scholar webpage)](https://scholar.google.com/citations?user=nRd604MAAAAJ&hl=en) <br />
+Former UVA Rising Scholar Postdoctoral Fellow in Physics, 09/2023--08/2025; co-advised with [Kent Yagi](https://kentyagi27.wixsite.com/website). <br />
+Currently a postdoctoral fellow at IUCAA at the University of Pune.
+
 - **Alexander Grant** [(Research webpage)](https://alex_grant.gitlab.io/) <br />
 UVA postdoc in Physics 09/2020--08/2023. <br />
 Currently a postdoctoral scholar at the University of Southampton.
@@ -42,7 +46,7 @@ Currently a postdoctoral scholar at the University of Southampton.
 
 - **Arwa Elhashash** <br /> 
 First UVA PhD student in Physics who I supervised, 08/2019--05/2025. <br />
-Will start a postdoctoral fellowship in the fall of 2025.
+Conducting independent research.
 
 ### MS Students ###
 
