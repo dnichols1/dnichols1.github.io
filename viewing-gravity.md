@@ -16,5 +16,4 @@ These are summarized on the webpage, [(Visualizations of Spacetime Curvature)](/
 
 [^1]: John Archibald Wheeler famously summarized the last two aspects of the theory as "Spacetime tells matter how to move; matter tells spacetime how to curve" assuming, of course, the reader was familiar with the notion of spacetime.
 
-[^2]: This material on this webpage was based upon work supported by the National Science Foundation under the NSF CAREER Award PHY-2439893. 
-Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author and do not necessarily reflect the views of the National Science Foundation.
+[^2]: This material on this webpage was based upon work supported by the National Science Foundation under the NSF CAREER Award PHY-2439893. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author and do not necessarily reflect the views of the National Science Foundation.
