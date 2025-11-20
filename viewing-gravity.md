@@ -22,7 +22,7 @@ The new visualization method highlighted how these stretching and squeezing effe
 Second is a relative rotation effect, which quantifies how space gets dragged into motion compared with nearby points (referred to as frame dragging).
 Its effects are visualized using the same method as with tidal effects, but the directions now refer to the axis of rotation at each point (with red denoting counterclockwise rotation and blue clockwise), and the translucent colors indicate the size of the relative rate of rotation at different points.
 
-To illustrate a specific example of this visualization method, we show it applied to a rotating black hole.
+To illustrate a specific example of this visualization method, it is applied to a rotating black hole in animations created by former UVA undergraduate physics major Zachary Raney ('25).
 The black hole is rotating at a uniform rate and is symmetric about its axis of rotation.
 As a result, the spacetime does not change with time.
 However, to give a better view of how the spacetime appears at different distances from the event horizon of the black hole, the animation uses a moving viewpoint to highlight the differences between the closer and further regions around the horizon.
