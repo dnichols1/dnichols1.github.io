@@ -5,10 +5,12 @@ author_profile: true
 permalink: /outreach/
 ---
 
-As part of my current and previous NSF grants,[^1] I put together two different outreach projects, which are linked below.
-The first on visualizations of spacetime curvature is work that generalizes some research I performed during my PhD, which is also summarized in the post [here]({% post_url 2012-12-19-vortex-and-tendex %}).
+As part of my current and previous NSF grants,[^1] I have developed (and continue to develop) three different outreach projects, which are linked below.
+The first on using visualizations of spacetime curvature as a method of conveying the complex physics and mathematics of general relativity in a simpler, visual perspective.
 The second is writings about gravity that mix creative works with pedagogical explanations.
-The aims of these two works are explained in more detail on the respective pages.
+The third on visualizations of spacetime curvature is work that generalizes some research I performed during my PhD. 
+More details about the visualization method is described in the post [here]({% post_url 2012-12-19-vortex-and-tendex %}).
+The aims of these projects are explained in more detail on the respective pages.
 
 [Viewing Gravity](/viewing-gravity/)
 
