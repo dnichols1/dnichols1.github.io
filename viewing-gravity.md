@@ -5,6 +5,10 @@ author_profile: true
 permalink: /viewing-gravity/
 ---
 
+[Introduction](#Intro)
+
+[An example of a rotating black hole](#BHex)
+
 ## <a name="Intro"></a>Introduction
 
 The fundamental insights from relativity can be stated without using the advanced mathematics (differential geometry or tensor calculus) that underlie the formal articulation of the theory.
@@ -14,10 +18,10 @@ For example, space and time are best described as a single four-dimensional cont
 This page is part of an ongoing effort,[^2] which has been given the name "Viewing Gravity" to use visualizations to investigate and convey the nature of gravity in general relativity as a way to circumvent the difficulties of mathematics and the limitations of words in understanding the nature of general relativity.
 It builds upon several papers described in a research effort which is summarized in the following post on this website [(here)]({% post_url 2012-12-19-vortex-and-tendex %}).
 It also relies upon modifications to the visualization method described in that post.
-These are summarized on the webpage, [(Visualizations of Spacetime Curvature)](/visualizations/), and this new method made animating the spacetime geometry much more tractable.
+These are summarized on a page on this website [(Visualizations of Spacetime Curvature)](/visualizations/), and this new method made animating the spacetime geometry much more tractable.
 
-The visualizations aim to highlight the two key physical effects of curved spacetime that cannot be eliminated through a judicious choice of measuring lengths or times elapsed (in a more technical language, setting up a locally inertial reference frame).
-First is relativistic tidal effects, which stretch an object in one direction and squeeze in two perpendicular directions (or vice versa) through a relative acceleration.
+The visualizations aim to highlight the two key physical effects of curved spacetime that cannot be eliminated through a judicious choice of measuring lengths or times (in a more technical language, setting up a locally inertial reference frame).
+First are relativistic tidal effects, which stretch an object in one direction and squeeze in two perpendicular directions (or vice versa) via a relative acceleration.
 The new visualization method highlighted how these stretching and squeezing effects change throughout space by showing them as red (stretching) or blue (squeezing) line segments distributed throughout space; the relative size of the icons at each point indicated the scale of the stretching and squeezing at each point, and a translucent color showed the relative magnitude of the stretching and squeezing effects at different points.
 Second is a relative rotation effect, which quantifies how space gets dragged into motion compared with nearby points (referred to as frame dragging).
 Its effects are visualized using the same method as with tidal effects, but the directions now refer to the axis of rotation at each point (with red denoting counterclockwise rotation and blue clockwise), and the translucent colors indicate the size of the relative rate of rotation at different points.
@@ -36,13 +40,12 @@ However, the amplitude of the fields were scaled at each radius in the animation
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OQIZ67uYuoI?si=O8GQ9L9kZHvCJjB5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 The first of the two videos shows the tidal field.
-The regions of blue-green color show that the magnitude of the stretching and squeezing effects of the spacetime curvature close to the event horizon are somewhat stronger in towards the equator rather than along the axis of the black hole's rotation (which points upward in the animation).
+The regions of blue-green color show that the magnitude of the stretching and squeezing effects of the spacetime curvature close to the event horizon are somewhat stronger near the equator rather than they are along the axis of the black hole's rotation (which points upward in the animation).
 Further from the event horizon, the angular dependence becomes less pronounced and more uniform in the angular directions.
 In addition, the red icons showing the positive (stretching) relative acceleration point predominantly radially away from the center of the black hole's horizon.
 This is expected because the spacetime becomes more strongly curved closer to its event horizon.
 The squeezing direction are oriented primarily in the tangential directions.
 However, because of the dragging of inertial frames the stretching direction has a small twist about the black hole's axis of rotation.
-We discuss the frame-dragging field next.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eBC-DmlFfLQ?si=AZYcC5jd6jpPcrTh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
