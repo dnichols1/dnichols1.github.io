@@ -22,14 +22,26 @@ The new visualization method highlighted how these stretching and squeezing effe
 Second is a relative rotation effect, which quantifies how space gets dragged into motion compared with nearby points (referred to as frame dragging).
 Its effects are visualized using the same method as with tidal effects, but the directions now refer to the axis of rotation at each point (with red denoting counterclockwise rotation and blue clockwise), and the translucent colors indicate the size of the relative rate of rotation at different points.
 
-To illustrate a specific example of this visualization method, it is applied to a rotating black hole in animations created by former UVA undergraduate physics major Zachary Raney ('25).
-The black hole is rotating at a uniform rate and is symmetric about its axis of rotation.
-As a result, the spacetime does not change with time.
-However, to give a better view of how the spacetime appears at different distances from the event horizon of the black hole, the animation uses a moving viewpoint to highlight the differences between the closer and further regions around the horizon.
-Visualizations of both the tidal effects and frame-drag effects are illustrated below.
-The two effects become weaker as the distance becomes larger from the black hole.
-These radial fall-off effects have been removed by scaling the amplitude of the fields.
-This highlights the angular dependence of the tidal and frame-dragging effects.
+To illustrate a specific example of this visualization method, the method was applied to a black hole rotating at ninety percent of the maximum allowed value.
+The animations shown below were created by former UVA undergraduate physics major Zachary Raney ('25).
+The black hole is rotating at a uniform rate and is symmetric about its axis of rotation; consequently, the spacetime does not change with time.
+Its event horizon (the surface from which not even light can escape) is a black, squashed ellipsoid in the coordinates used in the animations below.
+However, to give a better view of how the spacetime appears at different distances from the event horizon of the black hole, the animations use a moving viewpoint to highlight the regions of space close to and further away from the event horizon.
+Two separate visualizations below show the tidal effects and frame-drag effects, respectively.
+For both types of effects, their magnitudes become weaker as the distance from the event horizon increases.
+However, the amplitude of the fields were scaled at each radius in the animations to remove this weakening so as to highlight the angular dependence of the tidal and frame-dragging effects.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OQIZ67uYuoI?si=O8GQ9L9kZHvCJjB5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+The first of the two videos shows the tidal field.
+The regions of blue-green color show that the magnitude of the stretching and squeezing effects of the spacetime curvature close to the event horizon are somewhat stronger in towards the equator rather than along the axis of the black hole's rotation (which points upward in the animation).
+Further from the event horizon, the angular dependence becomes less pronounced and more uniform in the angular directions.
+In addition, the red icons showing the positive (stretching) relative acceleration point predominantly radially away from the center of the black hole's horizon.
+This is expected because the spacetime becomes more strongly curved closer to its event horizon.
+The squeezing direction are oriented primarily in the tangential directions.
+However, because of the dragging of inertial frames the stretching direction has a small twist about the black hole's axis of rotation.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eBC-DmlFfLQ?si=AZYcC5jd6jpPcrTh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [^1]: John Archibald Wheeler famously summarized the last two aspects of the theory as "Spacetime tells matter how to move; matter tells spacetime how to curve" assuming, of course, the reader was familiar with the notion of spacetime.
 
