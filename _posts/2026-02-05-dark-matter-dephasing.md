@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Research Theme: Dynamics of dark matter in intermediate mass-ratio inspirals"
-date:   2025-08-28
+date:   2026-02-05
 categories: papers
 ---
 
@@ -10,7 +10,8 @@ This post describes five papers on the dynamics of dark matter in intermediate m
 ## Papers Highlighted ##
 
 * B. A. Wade and **D. A. Nichols**.
-"Intermediate mass-ratio inspirals in a dense dark-matter environment: Effects of the initial dark-matter distribution," (2025).
+"Intermediate mass-ratio inspirals in a dense dark-matter environment: Effects of the initial dark-matter distribution."
+[Phys. Rev. D 113, 044014 (2026)](https://doi.org/10.1103/5s63-kgx2).
 [arXiv:2508.21132](https://arxiv.org/abs/2508.21132).
 
 * E. Wilcox, **D. A. Nichols**, and K. Yagi.
