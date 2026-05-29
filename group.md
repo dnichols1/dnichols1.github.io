@@ -17,10 +17,6 @@ Fulbright-Nehru postdoctoral researcher and group member since 10/2025. <br />
  
 ### PhD Students ###
 
-- **Benjamin Wade** [(UVA Physics webpage)](https://www.phys.virginia.edu/People/personal.asp?UID=baw8td) <br /> 
-UVA PhD student in Physics and group member since 02/2021. <br />
-*Research Areas*: Environmental effects in extreme- and intermediate-mass-ratio inspirals
-
 - **Siddhant Siddhant** [(UVA Physics webpage)](https://www.phys.virginia.edu/People/personal.asp?UID=sbp4ab) <br /> 
 UVA PhD student in Physics and group member since 01/2022. <br />
 *Research Areas*: Asymptotically flat spacetimes, gravitational-wave memory effects
@@ -28,6 +24,10 @@ UVA PhD student in Physics and group member since 01/2022. <br />
 - **Cuishan Liu** [(UVA Physics webpage)](https://www.phys.virginia.edu/People/personal.asp?UID=ktk4sz) <br /> 
 UVA PhD student in Physics and group member since 05/2023. <br />
 *Research Areas*: Black-hole ringdown, gravitational-wave memory
+
+- **William Messman** [(UVA Physics webpage)](https://www.phys.virginia.edu/People/personal.asp?UID=jwh7zp) <br /> 
+UVA PhD student in Physics and group member since 05/2026. <br />
+*Research Areas*: Environmental effects in extreme mass-ratio inspirals
 
 
 ## Former Group Members and Advisees ##
@@ -44,8 +44,11 @@ Currently a postdoctoral scholar at the University of Southampton.
 
 ### PhD Students ###
 
+- **Benjamin Wade** <br /> 
+UVA PhD in Physics and group member from 02/2021--05/2026.
+
 - **Arwa Elhashash** <br /> 
-First UVA PhD student in Physics who I supervised, 08/2019--05/2025. <br />
+UVA PhD in Physics and group member from 08/2019--05/2025. <br />
 Currently a postdoctoral researcher at Paris Observatory.
 
 ### MS Students ###
@@ -61,6 +64,10 @@ Helped with supervising MS thesis (on compact-object populations); primary super
 Completed a PhD in Astrophysics at the University of Birmingham. Currently a postdoc at NAOJ.
 
 ### Postbaccalaureate Students ###
+
+- **Ben Werchosky** <br /> 
+Former UVA Physics undeergraduate (class of 2025) who worked on a research project from 09/2025--05/2026. <br />
+Currently doing research at NIST.
 
 - **Leenie Wilcox** <br /> 
 Physics Bridge student, co-supervised with Kent Yagi, 09/2023--08/2024. <br />
