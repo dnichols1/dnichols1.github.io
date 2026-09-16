@@ -11,7 +11,11 @@ Below are current and former group members and advisees. I do not anticipate hav
 
 ### Postdoctoral Scholars ###
 
-- **Indranil Chakraborty** [(Google Scholar webpage)](https://scholar.google.com/citations?user=LtxFDXQAAAAJ&hl=en) <br />
+- **Nicholas Speeney** [(ORCiD page)](https://orcid.org/0000-0002-2738-0985) <br />
+Interconnected Cosmos Initiative (ICI) postdoctoral fellow (co-advised with [Phil Arras](https://sites.google.com/view/philarraswebpage/home)) and group member since 09/2026. <br />
+*Research Areas*: nvironmental effects in extreme mass-ratio inspirals
+
+- **Indranil Chakraborty** [(Research webpage)](https://sites.google.com/view/indranil-chakraborty/home) <br />
 Fulbright-Nehru postdoctoral researcher and group member since 10/2025. <br />
 *Research Areas*: Classical gravity, gravitational-wave memory
  
@@ -45,10 +49,10 @@ Currently a postdoctoral scholar at the University of Southampton.
 ### PhD Students ###
 
 - **Benjamin Wade** <br /> 
-UVA PhD in Physics and group member from 02/2021--05/2026.
+UVA PhD in Physics in 2026 and group member from 02/2021--05/2026.
 
 - **Arwa Elhashash** <br /> 
-UVA PhD in Physics and group member from 08/2019--05/2025. <br />
+UVA PhD in Physics in 2025 and group member from 08/2019--05/2025. <br />
 Currently a postdoctoral researcher at Paris Observatory.
 
 ### MS Students ###
@@ -66,7 +70,7 @@ Completed a PhD in Astrophysics at the University of Birmingham. Currently a pos
 ### Postbaccalaureate Students ###
 
 - **Ben Werchosky** <br /> 
-Former UVA Physics undeergraduate (class of 2025) who worked on a research project from 09/2025--05/2026. <br />
+Former UVA Physics undeergraduate (class of 2025) who worked on a research project from 09/2025--06/2026. <br />
 Currently doing research at NIST.
 
 - **Leenie Wilcox** <br /> 
