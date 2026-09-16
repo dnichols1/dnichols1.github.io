@@ -15,4 +15,6 @@ Future writings on other topics in gravitation will also appear here, once they 
 
 [Gravitational Waves: A Brief and Lyrical Introduction](/pdfs/GWwriting.pdf)
 
+[Gravitational-Wave Memory: What Spacetime Cannot Forget](/pdfs/memoryWriting.pdf)
+
 [^1]: This material on this webpage is based upon work supported by the National Science Foundation under Grant Number PHY-2309021. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author and do not necessarily reflect the views of the National Science Foundation.
