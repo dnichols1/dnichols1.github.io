@@ -9,7 +9,7 @@ As part of my current NSF grant,[^1] I proposed to mix creative and pedagogical 
 My first two efforts in this direction are linked below.
 The first is a brief overview of some of the surprising properties of non-rotating black holes with an introduction through a short poem that frames the subsequent, more pedagogical narrative.
 The second is a similar style overview about the gravitational waves that are emitted from the mergers of two black holes.
-Future writings on other topics in gravitation will also appear here, once they are prepared.
+The third writing is about the gravitational-wave memory effect.
 
 [Black Holes in Brief: A Creative Introduction](/pdfs/BHwriting.pdf)
 
