@@ -10,11 +10,11 @@ My profile on the UVA Physics Department's webpage can be accessed [here](https:
 From July 2019 to August 2025 I was an Assistant Professor of Physics at UVA.
 
 From July 2018 to July 2019, I was a senior postdoctoral researcher in the Gravitation Astroparticle Physics Amsterdam [(GRAPPA)](https://grappa.amsterdam/) institute at the University of Amsterdam [(UvA)](https://www.uva.nl/en/home) in The Netherlands. 
-I was part of the gravitational-waves research group there, which is being led by Associate Prof. [Samaya Nissanke](https://samayanissanke.wordpress.com/).
+I was part of the gravitational-waves research group there, which at the time was led by Prof. [Samaya Nissanke](https://samayanissanke.wordpress.com/), who is currently is a professor at the University of Potsdam and a scientist at DESY.
 
 From September 2016 to June 2018, I was a postdoctoral researcher in the [Department of Astrophysics](https://www.ru.nl/astrophysics/) at Radboud University [(RU)](https://www.ru.nl/en) in Nijmegen in The Netherlands. 
 The Department of Astrophysics is part of the larger Institute for Mathematics, Astrophysics, and Particle Physics [(IMAPP)](https://www.ru.nl/imapp/) at Radboud. 
-My research adviser there was also Associate Prof. Samaya Nissanke.
+My research adviser there was also Prof. Samaya Nissanke.
 
 Before moving to The Netherlands, I was a postdoctoral research associate working in the research group of Prof. [Eanna E. Flanagan](https://physics.cornell.edu/eanna-flanagan) at [Cornell University](https://www.cornell.edu/).
 I worked in the Cornell Center for Astrophysics and Planetary Science (CCAPS), which is affiliated with the [Department of Astronomy](https://astro.cornell.edu/). 
