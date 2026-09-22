@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Research Theme: Modeling the gravitational-wave memory signal"
-date:   2025-09-08
+date:   2026-09-07
 categories: papers
 ---
 
@@ -10,14 +10,18 @@ This post describes two papers on constructing gravitational waveform models for
 ## Papers Highlighted ##
 
 * A. Elhashash and **D. A. Nichols**.
-"Waveform models for the gravitational-wave memory effect: II. Time-domain and frequency-domain models for nonspinning binaries," (2025).
+"Waveform models for the gravitational-wave memory effect: III. Phenomenological frequency-domain model for nonspinning binaries."
+[arXiv:2609.04340](https://doi.org/10.48550/arXiv.2609.04340).
+
+* A. Elhashash and **D. A. Nichols**.
+"Waveform models for the gravitational-wave memory effect: II. Time-domain and frequency-domain models for nonspinning binaries."
 [Phys. Rev. D 112, 064014 (2025)](https://doi.org/10.1103/wzqk-62wc).
-[arXiv:2504.18635](https://arxiv.org/abs/2504.18635).
+[arXiv:2504.18635](https://doi.org/10.48550/arXiv.2504.18635).
 
 * A. Elhashash and **D. A. Nichols**.
 "Waveform models for the gravitational-wave memory effect: Extreme mass-ratio limit and final memory offset."
 [Phys. Rev. D 111, 044052 (2025)](https://doi.org/10.1103/PhysRevD.111.044052).
-[arXiv:2407.19017](https://arxiv.org/abs/2407.19017).
+[arXiv:2407.19017](https://doi.org/10.48550/arXiv.2407.19017).
 
 ## Summary of the Papers ##
 
@@ -36,3 +40,11 @@ We performed a new calculation of the time-domain memory signal for extreme mass
 The second of the two papers used the offset model, combined with post-Newtonian and black-hole-perturbation theories, to compute an analytical waveform model for the time-domain memory signal.
 This time-domain model also had an analytical Fourier transform, which gave us a frequency-domain model for non-spinning binary black holes.
 The models were calibrated up to a mass ratio of eight.
+
+The most recent pre-print (the third paper in the series) took a different approach than the time-domain model in the second paper.
+Whereas the time-domain model in the second paper used analytical calculations of the inspiral and ringdown memory signals with a phenomenological expression for the times between the late inspiral and the start of the ringdown, in this most recent paper, we instead used smooth frequency-domain functions that matched the qualitative properties of the memory signal in frequency space (namely, it goes as one over frequency at low frequencies and decays exponentially with frequency for frequencies larger than the inverse of the typical time scale over which the memory signal accumulates).
+One advantage of this more phenomenological approach was that the frequency-domain signal could be represented in simpler analytical functions than the special functions used to represent the analytical Fourier transform of the time-domain model from the second paper.
+This allowed the model to be computed more efficiently than the previous time-domain model.
+A second advantage, is that the inverse Fourier transform of the frequency-domain model is a smooth function in the time domain.
+The time-domain model of the second paper, however, had only a finite degree of differentiability at the two points where the inspiral and ringdown models matched to the intermediate section of the time-domain model.
+This finite degree of differentiability also introduced high-frequency artifacts into the frequency-domain representation of the time-domain model of the second paper, which limited this model's accuracy.
