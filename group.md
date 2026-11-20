@@ -13,7 +13,7 @@ Below are current and former group members and advisees. I do not anticipate hav
 
 - **Nicholas Speeney** [(ORCiD page)](https://orcid.org/0000-0002-2738-0985) <br />
 Interconnected Cosmos Initiative (ICI) postdoctoral fellow (co-advised with [Phil Arras](https://sites.google.com/view/philarraswebpage/home)) and group member since 09/2026. <br />
-*Research Areas*: nvironmental effects in extreme mass-ratio inspirals
+*Research Areas*: Environmental effects in extreme mass-ratio inspirals
 
 - **Indranil Chakraborty** [(Research webpage)](https://sites.google.com/view/indranil-chakraborty/home) <br />
 Fulbright-Nehru postdoctoral researcher and group member since 10/2025. <br />
